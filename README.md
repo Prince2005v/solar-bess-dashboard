@@ -36,6 +36,11 @@ The dashboard was created using Tableau Public and focuses on operational effici
 ## LIVE
 https://public.tableau.com/views/Kenya_Solar_BESS_Dashboard_twbx/KenyaSolarBESSExecutivePerformanceDashboard2024?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+##PREVIEW
+
+<img width="1421" height="804" alt="Screenshot 2026-06-22 at 3 47 15 PM" src="https://github.com/user-attachments/assets/65195f2c-59cd-4a1d-b3b2-3a19ac37ed31" />
+
+
 ## Author
 
 Prince Berlin
