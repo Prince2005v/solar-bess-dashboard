@@ -1,0 +1,13 @@
+Month,Site,Energy Generated (kWh),Diesel Saved (L),Diesel Cost Savings ($),Battery Capacity (kWh),Battery Used (kWh),Battery Utilization %,CO2 Reduced (kg)
+Jan,Nairobi A,4200,300,420,5000,4100,82,804
+Feb,Nairobi A,4500,340,476,5000,4300,86,910
+Mar,Nairobi A,4700,360,504,5000,4500,90,964
+Apr,Nairobi A,4900,390,546,5000,4600,92,1045
+May,Nairobi A,5200,410,574,5000,4700,94,1098
+Jun,Nairobi A,5100,400,560,5000,4650,93,1072
+Jul,Nairobi B,5300,420,588,5200,4800,92,1125
+Aug,Nairobi B,5500,450,630,5200,4900,94,1206
+Sep,Nairobi B,5600,470,658,5200,5000,96,1258
+Oct,Nairobi B,5800,490,686,5200,5050,97,1312
+Nov,Nairobi B,6000,510,714,5200,5100,98,1366
+Dec,Nairobi B,6200,530,742,5200,5150,99,1420
